@@ -1,7 +1,11 @@
 *{
     margin: 20px;
     padding: 10px;
+    background-color: beige;
+    box-sizing: border-box;
+    /* background-color: linear-gradient(to bottom right, purple, pink, orange); */
 }
+
 img{
     width:250px;
     height:250px;

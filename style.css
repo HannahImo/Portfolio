@@ -1,7 +1,6 @@
 *{
     margin: 20px;
     padding: 10px;
-    background-position: 50px;
 }
 img{
     width:250px;
@@ -11,7 +10,9 @@ img{
     float: left;
     object-fit: none;
 }
-Header{
+header{
+    /* margin: 20px;
+    padding: 10px; */
     flex: content;
     width: 100px;
     padding: 50px;
